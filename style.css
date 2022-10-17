@@ -1,0 +1,12 @@
+.jatekter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  width: 175px;
+  justify-content: space-evenly;
+}
+.elem {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+}
